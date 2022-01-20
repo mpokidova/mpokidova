@@ -5,7 +5,7 @@
 
 Здесь представлены мои проекты:
 * [analytics_projects](https://github.com/mpokidova/analytics_projects) - проекты по аналитике данных, сделанные во время обучения в Karpov.courses
-* [physics_projects](https://github.com/mpokidova/physics_project) - проекты по физике элементарных частиц, сделанные во время обсучения в СПБГУ
+* [physics_projects](https://github.com/mpokidova/physics_project) - проекты по физике элементарных частиц, сделанные во время обучения в СПБПУ
 
 Также можно увидеть мои работы в Tableau [по ссылке](https://public.tableau.com/app/profile/marina.p3868)
 
