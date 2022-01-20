@@ -12,7 +12,7 @@
 in English:
 
 
-- 👋 Hi, I’m Marina
+- 👋 Hi, my name is Marina
 - 👀 I’m interested in data analytics (especially related to gamedev)
 - 🌱 I’m currently working part time at ATLAS Hinv combination experiment 
 - 📫 You reach me by writing me on Telegram: @utrachenoe_vremya
