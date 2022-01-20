@@ -15,7 +15,7 @@ in English:
 - 👋 Hi, my name is Marina
 - 👀 I’m interested in data analytics (especially related to gamedev)
 - 🌱 I’m currently working part time at ATLAS Hinv combination experiment 
-- 📫 You reach me by writing me on Telegram: @utrachenoe_vremya
+- 📫 You can reach me by writing me on Telegram: @utrachenoe_vremya
 
 My projects here:
 * [analytics_projects](https://github.com/mpokidova/analytics_projects) - data analytics projects that I've done while studying at Karpov.courses
