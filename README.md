@@ -4,8 +4,8 @@
 - 📫 Со мной можно связаться, написав мне в Telegram: @utrachenoe_vremya
 
 Здесь представлены мои проекты:
-* analytics_projects - проекты по аналитике данных, сделанные во время обучения в Karpov.courses
-* physics_project - проекты по физике элементарных частиц, сделанные во время обсучения в СПБГУ
+* [analytics_projects](https://github.com/mpokidova/analytics_projects) - проекты по аналитике данных, сделанные во время обучения в Karpov.courses
+* [analytics_projects](https://github.com/mpokidova/physics_project) - проекты по физике элементарных частиц, сделанные во время обсучения в СПБГУ
 
 
 
@@ -18,5 +18,5 @@ in English:
 - 📫 You reach me by writing me on Telegram: @utrachenoe_vremya
 
 My projects here:
-* analytics_projects - data analytics projects that I've done while studying at Karpov.courses
-* physics_project - projects on particle physics that I've done while studying at SPBPU university
+* [analytics_projects](https://github.com/mpokidova/analytics_projects) - data analytics projects that I've done while studying at Karpov.courses
+* [analytics_projects](https://github.com/mpokidova/physics_project) - projects on particle physics that I've done while studying at SPBPU university
