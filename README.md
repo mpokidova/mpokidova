@@ -1,9 +1,7 @@
 - 👋 Привет, меня зовут Марина
 - 👀 Интересуюсь и хочу развиваться в сфере аналитики данных
-- 🌱 На данный момент работаю на полставки в эксперименте ATLAS, а именно анализирую данные для эксперимента Hinv combination
-- 📫 Со мной можно связаться по:
-  - Telegram: @utrachenoe_vremya
-  - Mail : tesna99@mail.ru
+- 🌱 На данный момент работаю на полставки в эксперименте ATLAS, а именно анализирую данные для эксперимента Hinv 
+
 
 Здесь представлены мои проекты:
 * [analytics_projects](https://github.com/mpokidova/analytics_projects) - проекты по аналитике данных, сделанные во время обучения в Karpov.courses
@@ -16,10 +14,7 @@ in English:
 
 - 👋 Hi, my name is Marina
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently working part time at ATLAS Hinv combination experiment 
-- 📫 You can reach me:
-  - Telegram: @utrachenoe_vremya
-  - Mail : tesna99@mail.ru
+- 🌱 I’m currently working part time at ATLAS Hinv experiment 
 
 My projects here:
 * [analytics_projects](https://github.com/mpokidova/analytics_projects) - data analytics projects that I've done while studying at Karpov.courses
